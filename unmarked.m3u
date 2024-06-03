@@ -1,3 +1,19 @@
 #EXTM3U
 #EXTINF:-1, Tsports (app live)
 https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
+#EXTINF:-1, T20WC LIVE (Toffee)
+https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
+#EXTINF:-1, Star Sports 1 hd
+http://public.iptv18.tech/smart.php?id=12148
+#EXTINF:-1, Star Sports 1 hd (mirror)
+http://public.iptv18.tech/push.php?id=22149
+#EXTINF:-1, Astro Cricket
+http://public.iptv18.tech/smart.php?id=12141
+#EXTINF:-1, Fox 501 hd
+http://public.iptv18.tech/push.php?id=24016
+#EXTINF:-1, Sky Sports Cricket
+http://public.iptv18.tech/push.php?id=5770
+#EXTINF:-1, Willow Cricket
+http://public.iptv18.tech/smart.php?id=10516
+#EXTINF:-1, Super Sport Cricket
+http://public.iptv18.tech/smart.php?id=12167
