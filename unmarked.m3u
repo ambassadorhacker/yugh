@@ -1,21 +1,53 @@
 #EXTM3U
-#EXTINF:-1, Tsports (app live)
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/CeAgx48qQ3M/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCs_4ykOY53tIoVFoEa7n5EgB0AVg", Cricket Gold
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1718109129/ei/ae9nZtHnIOGv6dsPxpqRuA0/ip/92.205.15.128/id/CeAgx48qQ3M.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51099271/txs/51099271%2C51099272%2C51121311%2C51121312/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f1hJbO4L7qfI3lACOSzp1K5IcgZz9MFdCQz_8V7ph_OScnY2j9nDYVM-SZ0/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgQyYrg6vGrtBkS8u3vf_8MLUx_B5m8WcJGGMPn-s-uVACIQCsHOburr-MYg7gDXxl4YO186yGVCn57a9XJ9EDlB4Trw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/441PzJL2/20240608-191655.png", Tsports
 https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
-#EXTINF:-1, T20WC LIVE (Toffee)
-https://the-nayeemparvez.xyz/tffe/live.m3u8?id=match-1
-#EXTINF:-1, Star Sports 1 hd
-http://public.iptv18.tech/smart.php?id=12148
-#EXTINF:-1, Star Sports 1 hd (mirror)
+#EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png", T20WC LIVE (Toffee)
+https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
+#EXTINF:-1 tvg-logo=", Star Sports 1 hd
 http://public.iptv18.tech/push.php?id=22149
-#EXTINF:-1, Astro Cricket
-http://public.iptv18.tech/smart.php?id=12141
-#EXTINF:-1, Fox 501 hd
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/CxR4TbF9/20240608-191622.png", Astro Cricket
+http://public.iptv18.tech/push.php?id=18458
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/bJVJhSYF/20240608-191505.png", Fox 501 hd
 http://public.iptv18.tech/push.php?id=24016
-#EXTINF:-1, Sky Sports Cricket
+#EXTINF:-1, Sky Sports Main Event
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/304014
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWxS4wj/20240608-191852.png", Sky Sports Cricket
 http://public.iptv18.tech/push.php?id=5770
-#EXTINF:-1, Willow Cricket
-http://public.iptv18.tech/smart.php?id=10516
-#EXTINF:-1, Super Sport Cricket
-http://public.iptv18.tech/smart.php?id=12167
-#EXTINF:-1, Ten Cricket
-https://nowsportv.com/crichd/stream.php?id=tenspk&e=.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/7hqNpc6N/20240608-191728.png", Willow Cricket
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/303852
+#EXTINF:-1, Willow Xtra
+http://public.iptv18.tech/push.php?id=22153
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/52sXyYn1/20240610-103304.png", Super Sport Cricket
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/304017
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/0yh08rjj/20240608-191547.png", Ten Sports
+http://public.iptv18.tech/push.php?id=22158
+#EXTINF:-1, CricLife 1
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/304021
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/DwNb54s6/20240610-103609.png", PTV Sports
+http://public.iptv18.tech/push.php?id=23935
+#EXTINF:-1, Geo Super+
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/303664
+#EXTINF:-1, Jio Cricket Hindi
+http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/303600
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Bn5fRJDK/20240609-105445.png", Disney Channel
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=19741
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Hungama_TV.svg/1200px-Hungama_TV.svg.png", Hungama
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=238963
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png", Duronto
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/mogaop.m3u8?id=239079
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/2b/Nickelodeon_Sonic_logo.png", Sonic
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=207
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Sony_Yay_new.png", Sony Yay
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=204
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRq_OoMGcAbEnLiH_eV-UBYVF7EOL5uHcfQmQ&usqp=CAU", Cartoon Network
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Nick_Logo_2017.svg/2560px-Nick_Logo_2017.svg.png", Nick
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/Ekiresonamia.m3u8?id=205
+#EXTINF:-1, POGO
+https://i.mjh.nz/SamsungTVPlus/INBD1300021X3.m3u8
+#EXTINF:-1, SPACETOON
+https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
+#EXTINF:-1, Mecca Live
+https://api.himel-op.top/Join-Telegram-@HimelOP_Official/yt-op.m3u8?channel-id=@SaudiQuranTv
