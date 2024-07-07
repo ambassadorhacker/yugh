@@ -6,7 +6,7 @@ https://the-nayeemparvez.xyz/tsp/stream.m3u8?id=live-02
 #EXTINF:-1 tvg-logo="https://images.toffeelive.com/images/program/298434/logo/240x240/mobile_logo_191263001717126123.png", T20WC LIVE (Toffee)
 https://t.ly/Toffee-Match1-BN/Zubayer_Op.m3u8
 #EXTINF:-1 tvg-logo=", Star Sports 1 hd
-http://public.iptv18.tech/push.php?id=22149
+http://39.62.12.164:8000/play/a0bq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/CxR4TbF9/20240608-191622.png", Astro Cricket
 http://public.iptv18.tech/push.php?id=18458
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/bJVJhSYF/20240608-191505.png", Fox 501 hd
@@ -22,11 +22,11 @@ http://public.iptv18.tech/push.php?id=22153
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/52sXyYn1/20240610-103304.png", Super Sport Cricket
 http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/304017
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/0yh08rjj/20240608-191547.png", Ten Sports
-http://public.iptv18.tech/push.php?id=22158
+http://39.62.12.163:8000/play/a08i/index.m3u8
 #EXTINF:-1, CricLife 1
 http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/304021
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DwNb54s6/20240610-103609.png", PTV Sports
-http://public.iptv18.tech/push.php?id=23935
+http://39.62.12.163:8000/play/a02s/index.m3u8
 #EXTINF:-1, Geo Super+
 http://mixbix.xyz:8080/N4mGNBEAHp2T/JXzmGmwyMaMF/303664
 #EXTINF:-1, Jio Cricket Hindi
